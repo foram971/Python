@@ -4,30 +4,39 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
 </p>
 
-## 💻 About Me
+## 🐍 Python Learning Journey (Daily Posts)
 
-I am a Data Analyst passionate about turning raw data into meaningful insights.
+I am currently learning Python from **beginning to end** and documenting my progress every day.
 
-- 📊 Data Visualization (Power BI | Tableau)
-- 🧹 Data Cleaning & Transformation (SQL | Python)
-- 📈 Business Reporting & Analytics
-- 🎯 Focused on real-world data problem solving
-
----
-
-## 🚀 What I Do
-
-- Build interactive dashboards
-- Analyze business KPIs
-- Work with large datasets
-- Create impactful data stories
+📚 I post **one Python chapter daily** covering:
+- Basics of Python
+- Data Structures
+- Functions & Loops
+- OOP Concepts
+- File Handling
+- Real-world mini projects
 
 ---
 
-## 🛠️ Tools & Skills
+## 🎯 My Goal
 
-SQL • Python • Power BI • Tableau • Excel • Data Analysis
+To build strong Python fundamentals and apply them in real-world Data Analytics projects.
 
 ---
 
-✨ *“Data is not just numbers, it’s a story waiting to be told.”*
+## 🚀 What you will find here
+
+- Daily Python learning updates
+- Practice exercises
+- Mini coding projects
+- Step-by-step progression from beginner to advanced
+
+---
+
+## 💻 Tools I Use
+
+Python • Jupyter Notebook • VS Code • GitHub
+
+---
+
+✨ *“Consistency beats intensity — one chapter a day builds mastery.”*
