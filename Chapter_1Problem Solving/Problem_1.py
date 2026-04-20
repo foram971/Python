@@ -1,9 +1,6 @@
-# Twinkle Twinkle Little Star
+def main():
+    poem = "Twinkle, twinkle, little star,\nHow I wonder what you are!\nUp above the world so high,\nLike a diamond in the sky.\nTwinkle, twinkle, little star,\nHow I wonder what you are!"
+    print(poem)
 
-def twinkle():
-    print("Twinkle, twinkle, little star,")
-    print("How I wonder what you are!")
-    print("Up above the world so high,")
-    print("Like a diamond in the sky.")
-
-twinkle()
+if __name__ == '__main__':
+    main()
