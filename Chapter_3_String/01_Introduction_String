@@ -1,0 +1,17 @@
+Name = 'Foram' # Single quoted string
+Name1 = "Foram" # Double quoted string
+Name2 = '''Foram''' #Triple quoted string
+
+print(Name,Name1,Name2)
+
+
+# Slicing
+'''F   O   R   A    M (length = 5)
+   0   1   2   3    4
+  (-5)(-4)(-3)(-2)(-1)
+'''
+Name_Shorts = Name[0:3] #start from 0 all the way till 3 (excluding 3)
+print(Name_Shorts)
+Character_1 = Name[1]
+print(Character_1)
+
