@@ -5,3 +5,5 @@ Name = input("Enter Your Name Here:")
 #prefixing a string with f 
 print(f"Good Afternoon,{Name}")
 
+
+print("Good Afternoon,",Name)
