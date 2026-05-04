@@ -1,8 +1,6 @@
 # Hello, I'm Foram Shah
 
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXA0Nzd1OHFxZWx1MTB3Nmh6ZzlqMnkwNWYzZzlvMWVibHI3NzZsNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rs0JBoGpPxMAlnVc8y/giphy.gif" width="350" />
-</p>
+
 
 # Python for Data Analytics
 
